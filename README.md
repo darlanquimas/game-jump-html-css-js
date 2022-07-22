@@ -1,7 +1,7 @@
 # game-jump-html-css-js
 
-Peojeto de estudo de htlm, css e javascript.
+Projeto de estudo de HTML, CSS e JAVASCRIPT.
 
-Criação de um jogo simples que faz o personagem interagir com os obstaculos no cenário.
+Criação de um jogo simples que faz o personagem interagir com os obstáculos no cenário.
 
 Em desenvolvimento!
